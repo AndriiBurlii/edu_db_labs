@@ -59,10 +59,6 @@ export default defineConfig({
             link: "/implementation/implementation",
           },
           {
-            text: "Тестування працездатності системи",
-            link: "/test/README",
-          },
-          {
             text: "Висновки",
             link: "/conclusion/README",
           },
