@@ -332,4 +332,4 @@ java -cp "lib/mysql-connector-j-<version>.jar:src" test.TestDeviceDAO
 - Застосовано патерн **DAO** для доступу до MySQL.
 - Реалізовано CRUD-операції над таблицею `devices`.
 - Підтверджено роботу через тестовий клас.
-
+<!-- пук -->
